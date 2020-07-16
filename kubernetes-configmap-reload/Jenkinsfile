@@ -22,7 +22,7 @@ pipeline {
             steps {
                 gitCheckout(
                     branch: "master",
-                    url: "https://github.com/VamsiTechTuts/spring-cloud-kubernetes.git"
+                    url: "https://github.com/ramanareddy03/spring-cloud-kubernetes.git"
                 )
             }
         }

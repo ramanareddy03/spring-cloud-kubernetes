@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
         - name: spring-cloud-discovery
-          image: vamsitechtuts/spring-cloud-discovery:latest
+          image: ramanareddy03/spring-cloud-discovery:latest
